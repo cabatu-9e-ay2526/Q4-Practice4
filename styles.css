@@ -1,0 +1,31 @@
+body {
+    font-family: "Josefin Sans";
+    background-clip: #b2d7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    padding: 40px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+}
+
+h1 {
+    font-family: "Caprasimo", cursive;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #6296e4; 
+    color: white;
+}
